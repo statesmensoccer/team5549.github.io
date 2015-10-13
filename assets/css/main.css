@@ -1934,17 +1934,19 @@
 		}
 
 /* Image */
-
+<img style="border:5px solid black">
 	.image {
 		border-radius: 3px;
-		border: 0;
+		border: 5;
 		display: inline-block;
 		position: relative;
+		
 	}
 
 		.image img {
 			border-radius: 3px;
 			display: block;
+			border: 5;
 		}
 
 		.image.left {
